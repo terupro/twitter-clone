@@ -15,4 +15,10 @@ body {
   .app {
     display: block;
   }
+  .widgets--input {
+    margin-left: 0px;
+  }
+  .widgets--widgetContainer {
+    margint-left: 0px;
+  }
 }
