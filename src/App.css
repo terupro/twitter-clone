@@ -21,4 +21,7 @@ body {
   .widgets--widgetContainer {
     margint-left: 0px;
   }
+  .timeline--header {
+    border: none;
+  }
 }
