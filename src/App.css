@@ -16,12 +16,19 @@ body {
     display: block;
   }
   .widgets--input {
-    margin-left: 0px;
+    margin-left: 0px !important;
   }
   .widgets--widgetContainer {
-    margint-left: 0px;
+    margin-left: 0px !important;
   }
   .timeline--header {
-    border: none;
+    border: none !important;
+  }
+
+  .sidebar {
+    border-right: none !important;
+  }
+  .timeline {
+    border-right: none !important;
   }
 }
