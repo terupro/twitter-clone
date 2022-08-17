@@ -1,9 +1,13 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# twitter-clone
+React + Firebase で構築したTwitterクローン
 
 ## Image
 <img width="600" alt="Screen Shot 2022-08-15 at 17 34 20" src="https://user-images.githubusercontent.com/92189386/184603312-fef02b72-3c71-4f8e-9085-6bce32ec1a33.png">
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
@@ -71,4 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# twitter-clone
+
